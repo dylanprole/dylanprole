@@ -23,7 +23,7 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![OpenCV](https://img.shields.io/badge/OpenCV-34A853.svg?logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-F37626.svg?logo=apachespark&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SK%20Learn-FF9900.svg?logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-025E8C.svg?logo=scipy&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
