@@ -2,25 +2,21 @@
 
 # Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
 
-My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and currently working at XERO. You can find me on on [![LinkedIn][3.2]][1].
+My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand and currently working at Xero. You can find me on on [![LinkedIn][3.2]][1].
 
 ## 🔧 Tools
 
 ### 👨‍💻 Languages
-
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-![Matlab](https://img.shields.io/badge/matlab-compatible-lightgrey.svg)
 
 
 ### 🧰 Frameworks and Libraries
-
-![AWS](https://img.shields.io/badge/-AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
