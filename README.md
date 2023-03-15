@@ -26,18 +26,18 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
   
 ### Dashboarding and Other Analyst Tools
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
-![Microstrategy](https://img.shields.io/badge/Microstrategy-333.svg?logo=microstrategy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-333.svg?logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-333.svg?logo=tableau&logoColor=white)
-![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-333.svg?logo=sumologic&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-333.svg?logo=googleanalytics&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-333.svg?logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-333.svg?logo=googledrive&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-333.svg?logo=miro&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-333.svg?logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-333.svg?logo=slack&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-333.svg?logo=Confluence&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-333.svg?logo=mix&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0078d7.svg?logo=Confluence&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-34A853.svg?logo=googledrive&logoColor=white)
+![Microstrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-F37626.svg?logo=microsoftoffice&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-025E8C.svg?logo=tableau&logoColor=white)
 
 
 
