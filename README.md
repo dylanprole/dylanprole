@@ -25,19 +25,21 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
   
 ### Dashboarding and Other Analyst Tools
-BigQuery
-Microstrategy
-PowerBI
-Tableau
-SumoLogic
-Google Analytics
-MS Office
-Google Workspace
-Miro
-Jira
-Slack
-Confluence
-Mixpanel
+![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=bigquery&logoColor=white)
+![Microstrategy](https://img.shields.io/badge/Microstrategy-333.svg?logo=mstr&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-333.svg?logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-333.svg?logo=tableau&logoColor=white)
+![SumoLogic](https://img.shields.io/badge/SumoLogic-333.svg?logo=sumo&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google-Analytics-333.svg?logo=googleanalytics&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS-Office-333.svg?logo=ms&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google-Workspace-333.svg?logo=googledrive&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-333.svg?logo=miro&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-333.svg?logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-333.svg?logo=slack&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-333.svg?logo=Confluence&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-333.svg?logo=mix&logoColor=white)
+
+
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
