@@ -9,8 +9,6 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 ### 👨‍💻 Languages
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
@@ -28,52 +26,20 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
-![]()
-![]()
-![]()
-![]()
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
-![DBT](https://img.shields.io/badge/-dbt-FB542B.svg?&logo=dbt&logoColor=White)
+![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=White)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![GitHubDesktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 
-### Full Stack Projects
+### 📕 Data Projects
 
 [![](https://img.shields.io/badge/-🧬%20%Ice%20Cream%20NZ%20Dash-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-🦠%20Sea%20Level%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-📝%20Artist%20Insights%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-🔬%20KNN%20Book%20Recommender-000)](https://github.com/dylanprole/resume-projects)
-
-## 🔧 Languages
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 
