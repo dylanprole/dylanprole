@@ -8,11 +8,12 @@ My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
-![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
+![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
+
 
 ### 🧰 Frameworks and Libraries
 
