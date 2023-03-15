@@ -20,7 +20,7 @@ My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-150458.svg?logo=snowflake&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
 ### 💻 Software and Tools
