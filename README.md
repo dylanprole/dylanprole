@@ -1,6 +1,6 @@
 <!--[![Header](.png image "Header")](https://martinheinz.dev/)-->
 
-# Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" />
+# Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
 
 My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and currently working at XERO. You can find me on on [![LinkedIn][3.2]][1].
 
