@@ -1,7 +1,3 @@
-<!--[![Header](.png image "Header")](https://martinheinz.dev/)-->
-
-# Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
-
 <div align="center">
   <h1> Hi there <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" /> </h1>
 </div>
