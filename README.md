@@ -8,13 +8,6 @@ My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and
 
 ### 👨‍💻 Languages
 
-![](https://img.shields.io/badge/-Python-000?&logo=Python&color=ffd43b)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&color=ffd43b)
-![](https://img.shields.io/badge/-Python-000?&logo=Python)
-![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&color=919198)
-![](https://img.shields.io/badge/-C-000?&logo=C)
-![](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
@@ -27,7 +20,16 @@ My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-150458.svg?logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+
+### 💻 Software and Tools
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Full Stack Projects
 
