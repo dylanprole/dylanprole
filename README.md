@@ -18,15 +18,19 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 
 ### 🧰 Frameworks and Libraries
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-34A853.svg?logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-F37626.svg?logo=apachespark&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-025E8C.svg?logo=scipy&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+  
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
+![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
   
 ### 📊 Dashboarding
 ![Microstrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
@@ -36,13 +40,11 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-0078d7.svg?logo=Confluence&logoColor=white)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-FB542B.svg?logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-34A853.svg?logo=googledrive&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
