@@ -39,7 +39,6 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 [![](https://img.shields.io/badge/-🌊%20Sea%20Level%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-🎵%20Artist%20Insights%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-📚%20KNN%20Book%20Recommender-000)](https://github.com/dylanprole/resume-projects)
-</div>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -49,12 +48,4 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 <a href="https://github.com/dylanprole/dylanprole">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylanprole&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dylan's GitHub Stats" />
 </a>
-
-<a href="https://github.com/dylanprole/python-beginner-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanprole&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/dylanprole/python-beginner-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dylanprole&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</div>
