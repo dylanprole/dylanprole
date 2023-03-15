@@ -29,10 +29,10 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
   
 ### 📊 Dashboarding
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![Microstrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
