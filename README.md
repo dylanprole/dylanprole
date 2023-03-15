@@ -2,6 +2,12 @@
 
 # Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
+</p>
+
+"center"
+
 My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand and currently working at Xero. You can find me on on [![LinkedIn][3.2]][1].
 
 ## 🔧 Tools
