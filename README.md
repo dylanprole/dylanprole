@@ -6,7 +6,7 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 [![GitHub](https://img.shields.io/badge/GitHub-333.svg?logo=github)](https://github.com/dylanprole)
 [![GitHub](https://img.shields.io/badge/GitHub-333.svg?logo=github&logoColor=White)](https://github.com/dylanprole)
 [![Gmail](https://img.shields.io/badge/Gmail-333.svg?logo=gmail&logoColor=White)](mailto:d.p.prole@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin&logoColor=White)](https://www.linkedin.com/in/dylanprole/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin)](https://www.linkedin.com/in/dylanprole/)
 
 ## 🔧 Tools & Technology
 
