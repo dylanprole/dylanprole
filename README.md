@@ -30,6 +30,7 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
   
 ### 📊 Dashboarding
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
@@ -51,7 +52,6 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 ![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-F37626.svg?logo=microsoftoffice&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
-![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
