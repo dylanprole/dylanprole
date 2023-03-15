@@ -2,6 +2,10 @@
   <h1> Hi there <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" /> </h1>
 
 My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand and currently working at Xero. You can find me here 👉 [![LinkedIn][3.2]][1].
+  
+<a href="https://www.linkedin.com/in/dylanprole/"><img height="30" src="https://cdn.icon-icons.com/icons2/535/PNG/512/Linkedin-Icon_icon-icons.com_52893.png?raw=true"></a>
+  
+src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 ## 🔧 Tools
 
