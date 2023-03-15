@@ -1,6 +1,5 @@
 <div align="center">
   <h1> Hi there <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" /> </h1>
-</div>
 
 My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand and currently working at Xero. You can find me on on [![LinkedIn][3.2]][1].
 
@@ -40,7 +39,7 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 [![](https://img.shields.io/badge/-🦠%20Sea%20Level%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-📝%20Artist%20Insights%20Dashboard-000)](https://github.com/dylanprole/resume-projects)
 [![](https://img.shields.io/badge/-🔬%20KNN%20Book%20Recommender-000)](https://github.com/dylanprole/resume-projects)
-
+</div>
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
