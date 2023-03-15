@@ -38,12 +38,10 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-025E8C.svg?logo=tableau&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-025E8C.svg?logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-F37626.svg?logo=apachespark&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-025E8C.svg?logo=scipy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SK%20Learn-025E8C.svg?logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-025E8C.svg?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-025E8C.svg?logo=seaborn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Open%20CV-025E8C.svg?logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SK%20Learn-FF9900.svg?logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Open%20CV-34A853.svg?logo=opencv&logoColor=white)
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
