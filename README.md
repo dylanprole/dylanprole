@@ -23,6 +23,21 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+  
+### Dashboarding and Other Analyst Tools
+BigQuery
+Microstrategy
+PowerBI
+Tableau
+SumoLogic
+Google Analytics
+MS Office
+Google Workspace
+Miro
+Jira
+Slack
+Confluence
+Mixpanel
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
