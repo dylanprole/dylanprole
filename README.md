@@ -3,10 +3,10 @@
 
 My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand and currently working at Xero. You can find me below 👇
   
-[![GitHub](https://img.shields.io/badge/GitHub-FB542B.svg?logo=github&logoColor=White)](https://github.com/dylanprole)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FB542B.svg?logo=linkedin&logoColor=White)](https://www.linkedin.com/in/dylanprole/)
+[![GitHub](https://img.shields.io/badge/GitHub-333.svg?logo=github&logoColor=White)](https://github.com/dylanprole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin&logoColor=White)](https://www.linkedin.com/in/dylanprole/)
 
-## 🔧 Tools
+## 🔧 Tools & Technology
 
 ### 👨‍💻 Languages
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
