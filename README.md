@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi there <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> </h1>
 
-My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maunganui, New Zealand and currently working at Xero. You can find me below 👇
+My name is Dylan and I'm a Data & Insights Analyst. I'm from New Zealand. You can find me below 👇
   
 [![GitHub](https://img.shields.io/badge/GitHub-333.svg?logo=github&logoColor=White)](https://github.com/dylanprole)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin&logoColor=White)](https://www.linkedin.com/in/dylanprole/)
