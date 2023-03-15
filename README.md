@@ -3,6 +3,7 @@
 # Howdy <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
 
 <p align="center">
+  <h1>Hi there <h1/>
   <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="50px" height="50px" />
 </p>
 
