@@ -46,6 +46,7 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=White)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=dbt&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
