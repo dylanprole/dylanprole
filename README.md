@@ -9,7 +9,7 @@ My name is Dylan Prole and I'm a Data/Insights Analyst. I'm from New Zealand and
 ### Languages
 
 ![](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
