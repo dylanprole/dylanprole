@@ -38,6 +38,13 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from Mount Maungan
 ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-025E8C.svg?logo=tableau&logoColor=white)
+Spark
+PySpark
+SciPy
+sklearn
+Matplotlib
+Seaborn
+R-Shiny
 
 
 
