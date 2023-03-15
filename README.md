@@ -9,6 +9,8 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 ### 👨‍💻 Languages
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
@@ -23,6 +25,12 @@ My name is Dylan Prole and I'm a Data & Insights Analyst. I'm from New Zealand a
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
 ### 💻 Software and Tools
+![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)
+![]()
+![]()
+![]()
+![]()
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
