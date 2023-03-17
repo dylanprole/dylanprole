@@ -63,4 +63,7 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 
 <a href="https://github.com/dylanprole"><img height="100px" src="https://github-readme-stats.vercel.app/api?username=dylanprole&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=333&theme=white" /><!-- wi*quL3fcV --><img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanprole&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=333&theme=white"/></a>
 
+  
+   
+![](https://komarev.com/ghpvc/?username=dylanprole)
 </div>
