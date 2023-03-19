@@ -66,4 +66,5 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
   
    
 ![](https://komarev.com/ghpvc/?username=dylanprole)
+  
 </div>
