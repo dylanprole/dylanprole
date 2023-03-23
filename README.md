@@ -37,7 +37,6 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![Microstrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-025E8C.svg?logo=tableau&logoColor=white)
 
 ### 💻 Software and Tools
