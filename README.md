@@ -1,6 +1,6 @@
 <div align="center">
   <h1> <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> Hi there 
-    <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> </h1>
+    <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> style="height:20px</h1>
 
 My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
   
