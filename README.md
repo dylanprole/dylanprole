@@ -2,6 +2,8 @@
   <h1 style="font-size:4em"> <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> Hi there 
     <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> </h1>
 
+<h1 style="font-size:4em; "> Hello World! </h1>
+  
 My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
   
 [![Gmail](https://img.shields.io/badge/Gmail-333.svg?logo=gmail&logoColor=White)](mailto:d.p.prole@gmail.com)
