@@ -4,7 +4,7 @@
 
 <h1 style="font-size:6em; "> Hello World! </h1>
   
-<p style="font-size:14px; "> Any text whose font we want to change </p>
+<p style="font-size:80px; "> Any text whose font we want to change </p>
   
 My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
   
