@@ -1,10 +1,6 @@
 <div align="center">
-  <h1 style="font-size:4em"> <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> Hi there 
+  <h1> <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> Hi there 
     <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> </h1>
-
-<h1 style="font-size:6em; "> Hello World! </h1>
-  
-<p style="font-size:80px; "> Any text whose font we want to change </p>
   
 My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
   
