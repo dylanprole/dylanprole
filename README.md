@@ -53,10 +53,10 @@ My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ### 📕 Data Projects
-<! --- [![](https://img.shields.io/badge/-🍦%20Ice%20Cream%20Tracker-333)](https://github.com/dylanprole/) --->
-<! --- [![](https://img.shields.io/badge/-🌊%20Sea%20Level%20Dashboard-333)](https://github.com/dylanprole/) --->
+<!-- [![](https://img.shields.io/badge/-🍦%20Ice%20Cream%20Tracker-333)](https://github.com/dylanprole/) -->
+<!-- [![](https://img.shields.io/badge/-🌊%20Sea%20Level%20Dashboard-333)](https://github.com/dylanprole/) -->
 [![](https://img.shields.io/badge/-👨‍🦰%20AI%20Lyric%20Composer-333)](https://github.com/dylanprole/artist_insights_dashboard/blob/main/lyrics_generator.ipynb)
-<! --- [![](https://img.shields.io/badge/-📚%20KNN%20Book%20Recommender-333)](https://github.com/dylanprole/) --->
+<!-- [![](https://img.shields.io/badge/-📚%20KNN%20Book%20Recommender-333)](https://github.com/dylanprole/) -->
 
 ## &#x1f4c8; GitHub Stats
 
