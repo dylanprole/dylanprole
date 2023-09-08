@@ -2,7 +2,7 @@
   <h1> <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> Hi there 
     <img src="https://media.giphy.com/media/jp2KXzsPtoKFG/giphy.gif" width="30px" height="30px" /> </h1>
   
-My name is Dylan and I'm a Data & Insights Analyst from New Zealand.
+My name is Dylan and I'm a Data Analyst from New Zealand.
   
 [![Gmail](https://img.shields.io/badge/Gmail-333.svg?logo=gmail&logoColor=White)](mailto:d.p.prole@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/dylanprole/)
