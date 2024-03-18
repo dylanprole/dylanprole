@@ -7,9 +7,9 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 [![Gmail](https://img.shields.io/badge/Gmail-333.svg?logo=gmail&logoColor=White)](mailto:d.p.prole@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333.svg?logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/dylanprole/)
 
-## 🔧 Tools & Technology
+## 🔧 Tools & Technologies
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
@@ -27,7 +27,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![SciPy](https://img.shields.io/badge/SciPy-025E8C.svg?logo=scipy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
   
-### ☁️ Cloud Platforms
+### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![GCP](https://img.shields.io/badge/GCP-333.svg?logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-276DC3?&logo=Microsoft-Azure&logoColor=White)
@@ -36,12 +36,42 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![Sumo Logic](https://img.shields.io/badge/Sumo%20Logic-03599C.svg?logo=sumologic&logoColor=white)
+
+### ☁️ Orchestration
+![Airflow](https://img.shields.io/badge/Airflow-333.svg?logo=airflow&logoColor=white)
+![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage&logoColor=white)
+
+### 🧰 Big Data Frameworks
+![Hadoop](https://img.shields.io/badge/Hadoop-00979D?logo=hadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-00979D?logo=hive&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-00979D?logo=spark&logoColor=white)
+
+### 💻 Data Transformation
+![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=white)
   
 ### 📊 Dashboarding
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
+
+### 🧰 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
+
+### 💻 Development and CICD
+![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FF0000.svg?logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-0078d7.svg?logo=github&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-0078d7.svg?logo=github-actions&logoColor=white)
+![Azure Dev Ops](https://img.shields.io/badge/ADO-FB542B.svg?logo=ado&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
+![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
