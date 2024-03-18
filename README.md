@@ -29,7 +29,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
   
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
-![GCP](https://img.shields.io/badge/GCP-150458?&logo=googlecloud&logoColor=White)
+![GCP](https://img.shields.io/badge/GCP-333.svg?logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-276DC3?&logo=Microsoft-Azure&logoColor=White)
 
 ### ☁️ Data Warehouses
