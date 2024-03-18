@@ -30,7 +30,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
 ![GCP](https://img.shields.io/badge/GCP-150458?&logo=googlecloud&logoColor=White)
-![Microsoft Azure](https://img.shields.io/badge/Azure-276DC3?&logo=Azure&logoColor=White)
+![Microsoft Azure](https://img.shields.io/badge/Azure-276DC3?&logo=Microsoft-Azure&logoColor=White)
 
 ### ☁️ Data Warehouses
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
@@ -41,7 +41,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-150458.svg?logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
 
 ### 💻 Software and Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
