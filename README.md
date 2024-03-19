@@ -18,14 +18,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 
 
 ### 🧰 Frameworks and Libraries
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-34A853.svg?logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-F37626.svg?logo=apachespark&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-025E8C.svg?logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
   
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
@@ -56,22 +49,20 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Power BI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
 
 ### 🤖 Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-F05033?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-34A853.svg?logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
 ### 💻 Development and CICD
+![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FB542B.svg?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-1f2f40.svg?logo=github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-4359ff.svg?logo=github-actions&logoColor=white)
-![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
-![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ### 💻 Work Tracking, Communication, and Collaboration
 ![Confluence](https://img.shields.io/badge/Confluence-0078d7.svg?logo=Confluence&logoColor=white)
