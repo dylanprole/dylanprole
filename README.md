@@ -31,7 +31,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Redshift](https://img.shields.io/badge/Redshift-4C94FF?logo=amazon-redshift&logoColor=white)
 
 ### 🛠️ Orchestration
-![Airflow](https://img.shields.io/badge/Airflow-333.svg?logo=apache-airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-f9c901.svg?logo=apache-airflow&logoColor=black)
 ![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
 ### 🧰 Big Data Frameworks
@@ -69,7 +69,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Jira](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Teams-8034A9.svg?logo=microsoft-teams&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-150458.svg?logo=microsoft-teams&logoColor=white)
 ![Azure Boards](https://img.shields.io/badge/Azure%20Boards-34A853.svg?logo=microsoft-azure-boards&logoColor=white)
 
 ### 📕 Coding Projects
