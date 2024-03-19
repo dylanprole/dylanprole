@@ -31,7 +31,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Redshift](https://img.shields.io/badge/Redshift-4C94FF?logo=amazon-redshift&logoColor=white)
 
 ### 🛠️ Orchestration
-![Airflow](https://img.shields.io/badge/Airflow-f9c901.svg?logo=apache-airflow&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-34A853.svg?logo=apache-airflow&logoColor=white)
 ![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
 ### 🧰 Big Data Frameworks
