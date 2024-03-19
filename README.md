@@ -42,9 +42,9 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
 ### 🧰 Big Data Frameworks
-![Hadoop](https://img.shields.io/badge/Hadoop-00979D?logo=hadoop&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-f9c901?logo=apache-hive&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-00979D?logo=hive&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-00979D?logo=spark&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E4682A?logo=apache-spark&logoColor=white)
 
 ### 💻 Data Transformation
 ![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=white)
