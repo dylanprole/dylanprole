@@ -15,10 +15,6 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Python](https://img.shields.io/badge/Python-FFD43B.svg?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-
-
-### 🧰 Frameworks and Libraries
-![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
   
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?&logo=Amazon-AWS&logoColor=White)
