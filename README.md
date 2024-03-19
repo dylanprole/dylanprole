@@ -56,8 +56,8 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
 ### 💻 Development and CICD
-![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
+![Azure Dev Ops](https://img.shields.io/badge/Azure%20Dev%20Ops-006fb9.svg?logo=azure-devops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-006fb9.svg?logo=azure-pipelines&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FB542B.svg?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-1f2f40.svg?logo=github&logoColor=white)
@@ -70,7 +70,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Teams-8034A9.svg?logo=teams&logoColor=white)
-![Azure Boards](https://img.shields.io/badge/Azure%20Boards-8034A9.svg?logo=azure-boards&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure%20Boards-34A853.svg?logo=azure-boards&logoColor=white)
 
 ### 📕 Coding Projects
 <!-- [![](https://img.shields.io/badge/-🍦%20Ice%20Cream%20Tracker-333)](https://github.com/dylanprole/) -->
