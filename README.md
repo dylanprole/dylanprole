@@ -35,8 +35,10 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Hive](https://img.shields.io/badge/Hive-f9c901?logo=apache-hive&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E4682A?logo=apache-spark&logoColor=white)
 
-### 🪄 Data Transformation
+### 🪄 Transformations and Infrastructure
 ![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4C94FF.svg?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-8034A9.svg?logo=terraform&logoColor=white)
   
 ### 📊 Dashboarding
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
