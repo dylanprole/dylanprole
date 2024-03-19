@@ -42,7 +42,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
 ### 🧰 Big Data Frameworks
-![Hadoop](https://img.shields.io/badge/Hadoop-006f89?logo=apache-hadoop&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-006fb9?logo=apache-hadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-f9c901?logo=apache-hive&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E4682A?logo=apache-spark&logoColor=white)
 
@@ -64,7 +64,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-0078d7.svg?logo=github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-0078d7.svg?logo=github-actions&logoColor=white)
-![Azure Dev Ops](https://img.shields.io/badge/ADO-FB542B.svg?logo=ado&logoColor=white)
+![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
