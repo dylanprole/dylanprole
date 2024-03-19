@@ -69,8 +69,8 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Jira](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
-![Microsoft Teams](https://img.shields.io/badge/Teams-8034A9.svg?logo=teams&logoColor=white)
-![Azure Boards](https://img.shields.io/badge/Azure%20Boards-34A853.svg?logo=azure-boards&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-8034A9.svg?logo=microsoft-teams&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure%20Boards-34A853.svg?logo=microsoft-azure-boards&logoColor=white)
 
 ### 📕 Coding Projects
 <!-- [![](https://img.shields.io/badge/-🍦%20Ice%20Cream%20Tracker-333)](https://github.com/dylanprole/) -->
