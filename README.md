@@ -35,11 +35,11 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ### ☁️ Data Warehouses
 ![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-03599C.svg?logo=aws-redshift&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-4C94FF?logo=amazon-redshift&logoColor=white)
 
 ### ☁️ Orchestration
-![Airflow](https://img.shields.io/badge/Airflow-333.svg?logo=airflow&logoColor=white)
-![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-333.svg?logo=apache-airflow&logoColor=white)
+![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
 ### 🧰 Big Data Frameworks
 ![Hadoop](https://img.shields.io/badge/Hadoop-00979D?logo=hadoop&logoColor=white)
