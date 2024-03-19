@@ -32,7 +32,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 
 ### 🛠️ Orchestration
 ![Airflow](https://img.shields.io/badge/Airflow-34A853.svg?logo=apache-airflow&logoColor=white)
-![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-4359ff.svg?logo=dagster&logoColor=white)
 
 ### 🧰 Big Data Frameworks
 ![Hadoop](https://img.shields.io/badge/Hadoop-006fb9?logo=apache-hadoop&logoColor=white)
