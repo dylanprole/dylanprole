@@ -37,7 +37,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-4C94FF?logo=amazon-redshift&logoColor=white)
 
-### ☁️ Orchestration
+### 🛠️ Orchestration
 ![Airflow](https://img.shields.io/badge/Airflow-333.svg?logo=apache-airflow&logoColor=white)
 ![Mage](https://img.shields.io/badge/Mage-333.svg?logo=mage-ai&logoColor=white)
 
@@ -46,7 +46,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Hive](https://img.shields.io/badge/Hive-f9c901?logo=apache-hive&logoColor=black)
 ![Spark](https://img.shields.io/badge/Spark-E4682A?logo=apache-spark&logoColor=white)
 
-### 💻 Data Transformation
+### 🪄 Data Transformation
 ![DBT](https://img.shields.io/badge/dbt-FB542B.svg?logo=dbt&logoColor=white)
   
 ### 📊 Dashboarding
@@ -55,7 +55,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-8034A9.svg?logo=mix&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
 
-### 🧰 Machine Learning
+### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-FF9900.svg?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
@@ -63,7 +63,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FB542B.svg?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-1f2f40.svg?logo=github&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub%20Actions-0078d7.svg?logo=github-actions&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-4359ff.svg?logo=github-actions&logoColor=white)
 ![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
@@ -73,18 +73,13 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
-### 💻 Software and Tools
-![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)
+### 💻 Work Tracking, Communication, and Collaboration
 ![Confluence](https://img.shields.io/badge/Confluence-0078d7.svg?logo=Confluence&logoColor=white)
-![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?logo=dbeaver-mono&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FB542B.svg?logo=dbt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0078d7.svg?logo=jira&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD43B.svg?logo=miro&logoColor=white)
-![Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-8034A9.svg?logo=slack&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-8034A9.svg?logo=teams&logoColor=white)
+![Azure Boards](https://img.shields.io/badge/Azure%20Boards-8034A9.svg?logo=azure-boards&logoColor=white)
 
 ### 📕 Coding Projects
 <!-- [![](https://img.shields.io/badge/-🍦%20Ice%20Cream%20Tracker-333)](https://github.com/dylanprole/) -->
