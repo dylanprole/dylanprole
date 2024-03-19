@@ -60,9 +60,9 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 
 ### 💻 Development and CICD
-![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FF0000.svg?logo=adobe&logoColor=white)
+![Azure Repos](https://img.shields.io/badge/Azure%20Repos-FB542B.svg?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-0078d7.svg?logo=github&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-1f2f40.svg?logo=github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-0078d7.svg?logo=github-actions&logoColor=white)
 ![Azure Dev Ops](https://img.shields.io/badge/ADO-006fb9.svg?logo=azure-devops&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-F05033.svg?logo=azure-pipelines&logoColor=white)
