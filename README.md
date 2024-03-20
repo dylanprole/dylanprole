@@ -43,7 +43,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ### 📊 Dashboarding
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F37626.svg?logo=googleanalytics&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/Microstrategy-FF0000.svg?logo=microstrategy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-FFD43B.svg?logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFD43B.svg?logo=powerbi&logoColor=white)
 
 ### 🤖 Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-F05033?logo=pytorch&logoColor=white)
