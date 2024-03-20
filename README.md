@@ -22,7 +22,7 @@ My name is Dylan and I'm a Data Analyst from New Zealand.
 ![Microsoft Azure](https://img.shields.io/badge/Azure-276DC3?&logo=Microsoft-Azure&logoColor=White)
 
 ### ☁️ Data Warehouses
-![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-333.svg?logo=google-bigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-35AEDD.svg?logo=snowflake&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-4C94FF?logo=amazon-redshift&logoColor=white)
 
